@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pillow
+qiskit
+qiskit_machine_learning
+torch
+torchvision
+pylatexenc

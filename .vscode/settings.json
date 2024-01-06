@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 {
     "python.analysis.extraPaths": [
         "./PyFiles"
     ]
+=======
+{
+    "python.analysis.extraPaths": [
+        "./PyFiles"
+    ]
+>>>>>>> 64f368f22381dbc1f7921fa62ff611701f36b3b6
 }
